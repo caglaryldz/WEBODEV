@@ -9,14 +9,14 @@ Sakarya Üniversitesi Bilgisayar Mühendisliği Web Teknolojileri Proje ödevi
   
  #PROJE İÇERİĞİ:
  
-  -ANA SAYFA/HAKKINDA SAYFASI
+  -ANA SAYFA/HAKKINDA SAYFASI:
       Giriş sayfası niteliğinde olup, kendimi tanıtan bilgiler (Hobiler,
 Etkinlikler vb ) , sevdiğim spor,etkinlik vb kendime ait resimler, linkler vb. içerir.
 
-  -ÖZ GEÇMİŞ SAYFASI
+  -ÖZ GEÇMİŞ SAYFASI:
       Eğitim bilgilerimi içeren CV niteliğinde samantic tagların kullanıldığı sayfadır.  
      
-  -ŞEHRİM SAYFASI   
+  -ŞEHRİM SAYFASI:   
       Bu sayfada sevdiğim şehre ait bilgiler yer almaktadır. (Şehrin nufusu, gezilecek yerler vb)
       Sayfanın başında ya da sonunda en az 4 resimden oluşan bir slider yer alıcaktır. Slider’da yer alan resimlere tıklandığında ilgili resimlere ait içeriklere
   linkler bulunmaktadır.
